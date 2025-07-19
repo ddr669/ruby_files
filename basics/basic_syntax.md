@@ -37,8 +37,7 @@ If in ruby is more simple that its looks like
 <summary>Some tips</summary>
 
 ruby has a lot of built-in methods like to\_i.  
-`input = gets;  
-puts input.chomp.to\_i + " is now a number int";`  
+`input = gets; puts input.chomp.to_i + " is now a number int";`  
   
 chomp is to remove '\n' in the input.  
   
