@@ -1,4 +1,4 @@
-# Ruby lang  
+# Ruby 💎
 
 1. [Basic Syntax](basics/basic_syntax.md)
     - [Begin-end](basics/begin_end.rb)
