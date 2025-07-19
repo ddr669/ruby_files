@@ -29,6 +29,18 @@ else
   puts "Oh, well"
 end
 
+# operator 
+puts
+puts "&& -> and operator"
+puts "|| -> or operator"
+puts "^  -> XOR operator"
+puts
+
+# if else statements 
+# if -> [0] first if true
+# elsif -> [1] second if true
+# else (statement) -> [3] three if true
+# else -> [-1] last one
 
 
 
