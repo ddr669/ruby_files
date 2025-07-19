@@ -6,6 +6,7 @@
     - [If and Else Statement](basics/if_statement.rb)
     - [Class And Functions](basics/class_and_functions.rb)
     - [regex with ruby](basics/regex_.rb)
+    - [keywords](basics/ruby_keywords.txt)
 
 2. [Some tips]()
 
