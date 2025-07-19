@@ -27,7 +27,35 @@ Or in a variable.
 <details>
 <summary>If statement</summary>
 
-If in ruby is more simple that its looks like
+If in ruby is more simple that its looks like  
+
+<br>
+
+`if (condition)`
+`-   # do something`
+`-   puts "True"`
+`elsif (condition)`
+`-   # do another thing`
+`-   puts "elsif triggered"`
+`else`
+`-   puts "False"`
+`end`
+
+<br>
+
+Ternary statement.  
+
+
+`(teste-expression) ? if-true-expression : if-false-expression`
+`x = (a > 2) ? true : false;`
+
+<br><br>
+
+Statements operators.  
+
+`&& -> and operator`
+`|| -> or operator`
+`^  -> XOR operator`
 
 
 </details>
