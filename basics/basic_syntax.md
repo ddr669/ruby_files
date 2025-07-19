@@ -1,9 +1,30 @@
 # Introduction to ruby 
 
-This is for personal study only.<br><br>
+This is for personal study only.  
 
-Some basic syntax of ruby like if statment, loop, while until, for and more
+Some basic syntax of ruby like if statment, loop, while until, for and more.  
 
----
+---  
+# Elegant syntax 
 
-Ruby Documentation [Doc]("https://www.ruby-lang.org/pt/documentation/")
+<details>
+
+<summary>Ruby is dynamic and simplicity to understand</summary>
+
+Things like simple queue range built-in function 
+
+
+`for n in 1..10 do; puts n; end`  
+
+
+Or in a variable.  
+
+`x = {1..10}`  
+
+
+
+</details>
+
+
+
+Ruby Documentation [Docs](https://www.ruby-lang.org/pt/documentation/)
