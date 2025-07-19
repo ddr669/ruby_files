@@ -80,7 +80,7 @@ Statements operators.
 
 <summary>Class And methods</summary>
 
-Class with ruby may seem a little difficult but to understood more is just compare to java with public and private methods that do different depends of variables and your methods.  
+Class with ruby may seem a little difficult but to understood better just compare to java with public and private methods that do different depends of variables and your methods.  
 <br>
 
 `@ -> is to private methods and variables`
