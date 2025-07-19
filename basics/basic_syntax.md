@@ -102,7 +102,18 @@ the super built-in function aways will get the method origin and merge with the 
 
 </details>
 
+<details>
 
+<summary>Regex in ruby is izi</summary>
+
+There's a lot of way to use regex in ruby and not by a module but a built-in-function call by
+
+`'String' =~ /\regex/`
+
+some of regex to use with.
+
+
+</details>
 
 
 <details>
