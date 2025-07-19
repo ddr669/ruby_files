@@ -25,6 +25,46 @@ Or in a variable.
 </details>
 
 <details>
+
+<summary>BEGIN - END</summary>
+
+ruby have a structure wich consist in a main block that execute the block first to execute another block, the END block, all of the functions and methods will be executed and load after BEGIN block and the END execute after the body scope.  
+something like that pseudocode
+
+<code align="center">
+puts "body scope"  
+
+BEGIN {  
+    def _main  
+        puts "INIT"  
+    end  
+    puts "loaded"  
+}  
+
+END {  
+    _main  
+    puts "END"  
+}  
+
+</code>
+
+the result will be  
+
+<code align="center">
+loaded  
+body scope  
+INIT  
+END  
+</code>
+
+
+
+</details>
+
+
+
+
+<details>
 <summary>If statement</summary>
 
 If in ruby is more simple that its looks like  
@@ -73,6 +113,7 @@ Statements operators.
 <br>
 
 
+
 </details>
 
 
@@ -108,10 +149,37 @@ the super built-in function aways will get the method origin and merge with the 
 
 There's a lot of way to use regex in ruby and not by a module but a built-in-function call by
 
-`'String' =~ /\regex/`
+`'String' =~ /\regex/`  
 
-some of regex to use with.
+some of regex to use with.  
 
+\d - number  
+\w - [0-9a-zA-Z_]  
+\s - matches white spaces  
+\W - anything thats not in \w  
+\D - anything thats not a number  
+\S - anything thats not a space  
+
+---
+
+Multiple search and concatenations  
+<br>
+
+`/\d(a|b|c)/ -> a number + a or b or c`  
+
+<br>
+
+`/[a-w]/`  
+
+<br>
+
+`/\w{1,3}/ -> a string that have between 1 and 3 chars`  
+
+<br>
+
+`/\w{6}/ -> a string with 6 chars`
+ 
+---
 
 </details>
 
