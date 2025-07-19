@@ -32,30 +32,70 @@ If in ruby is more simple that its looks like
 <br>
 
 `if (condition)`
+
+<br>
+
 `-   # do something`
+
+<br>
+
 `-   puts "True"`
+
+<br>
+
 `elsif (condition)`
+
+<br>
+
+
 `-   # do another thing`
+
+<br>
+
 `-   puts "elsif triggered"`
+
+<br>
+
 `else`
+
+<br>
+
 `-   puts "False"`
+
+<br>
+
 `end`
 
 <br>
 
 Ternary statement.  
 
+<br>
 
 `(teste-expression) ? if-true-expression : if-false-expression`
+
+<br>
+
 `x = (a > 2) ? true : false;`
 
 <br><br>
 
 Statements operators.  
 
+
+<br>
+
 `&& -> and operator`
+
+<br>
+
 `|| -> or operator`
+
+<br>
+
 `^  -> XOR operator`
+
+<br>
 
 
 </details>
