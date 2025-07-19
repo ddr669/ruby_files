@@ -34,10 +34,10 @@ If in ruby is more simple that its looks like
 <code>
 
 if (condition)
-   # do something
+   \# do something
    puts "True"
 elsif (condition)
-   # do another thing
+   \# do another thing
    puts "elsif triggered"
 else
    puts "False"
