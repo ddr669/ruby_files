@@ -31,15 +31,19 @@ If in ruby is more simple that its looks like
 
 <br>
 
-`if (condition)
--   # do something
--   puts "True"
+<code>
+
+if (condition)
+   # do something
+   puts "True"
 elsif (condition)
--   # do another thing
--   puts "elsif triggered"
+   # do another thing
+   puts "elsif triggered"
 else
--   puts "False"
-end`
+   puts "False"
+end
+
+</code>
 
 <br>
 
