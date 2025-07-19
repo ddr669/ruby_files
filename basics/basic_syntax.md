@@ -14,12 +14,12 @@ Some basic syntax of ruby like if statment, loop, while until, for and more.
 Things like simple queue range built-in function 
 
 
-`for n in 1..10 do; puts n; end`  
+`for n in 1..10 do; puts n; end `
 
 
 Or in a variable.  
 
-`x = 1..10`  
+`x = 1..10`   
 
 
 </details>
@@ -31,40 +31,15 @@ If in ruby is more simple that its looks like
 
 <br>
 
-`if (condition)`
-
-<br>
-
-`-   # do something`
-
-<br>
-
-`-   puts "True"`
-
-<br>
-
-`elsif (condition)`
-
-<br>
-
-
-`-   # do another thing`
-
-<br>
-
-`-   puts "elsif triggered"`
-
-<br>
-
-`else`
-
-<br>
-
-`-   puts "False"`
-
-<br>
-
-`end`
+`if (condition)
+-   # do something
+-   puts "True"
+elsif (condition)
+-   # do another thing
+-   puts "elsif triggered"
+else
+-   puts "False"
+end`
 
 <br>
 
