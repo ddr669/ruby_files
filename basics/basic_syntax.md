@@ -31,9 +31,7 @@ If in ruby is more simple that its looks like
 
 <br>
 
-<code>
-
-if (condition)
+<code>if (condition)
    \# do something
    puts "True"
 elsif (condition)
@@ -41,9 +39,7 @@ elsif (condition)
    puts "elsif triggered"
 else
    puts "False"
-end
-
-</code>
+end</code>
 
 <br>
 
