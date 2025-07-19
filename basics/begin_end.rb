@@ -1,5 +1,12 @@
 
+=begin
+    A big comment about the code
+    :D 
+    :D
+    :D
+    no, that is not what you are thinking
 
+=end
 
 
 # out of these structure will be load AFTER all - 
