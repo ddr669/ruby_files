@@ -4,7 +4,7 @@ class Cpf
 
     def initialize new_cpf
         # sanitizate with regex
-        @_cpf = (new_cpf =~ /\d{3,3}.\d{3,3}.\d{3,3}-\d{2,2}/) ? new_cpf : "Not a valid CPF."
+        @_cpf = (new_cpf =~ /\d{3,3}\.\d{3,3}\.\d{3,3}-\d{2,2}/) ? new_cpf : "Not a valid CPF."
     end
     
     def validate
