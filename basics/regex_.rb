@@ -15,3 +15,6 @@ else
     puts "Your string dont have 'h'"
 end
 
+if input_user.match(/h/)
+    puts 
+end
