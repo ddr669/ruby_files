@@ -75,6 +75,36 @@ Statements operators.
 
 </details>
 
+
+<details>
+
+<summary>Class And methods</summary>
+
+Class with ruby may seem a little difficult but to understood more is just compare to java with public and private methods that do different depends of variables and your methods.  
+<br>
+
+`@ -> is to private methods and variables`
+
+<br> 
+
+`@@ -> is to public methods and variables`
+
+
+<br>
+
+---
+
+the init/main method is initialize(something=0) or initialize something=0; end.  
+<br><br>
+
+the super built-in function aways will get the method origin and merge with the actual method indepedent of classes.  
+
+
+</details>
+
+
+
+
 <details>
 
 <summary>Some tips</summary>

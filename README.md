@@ -3,7 +3,7 @@
 1. [Basic Syntax](basics/basic_syntax.md)
     - [Loop](basics/loops_types.rb)
     - [If and Else Statement](basics/if_statement.rb)
-    - [Functions]()
-
+    - [CLass And Functions](basics/class_and_functions.rb)
+    
 2. [Some tips]()
 
