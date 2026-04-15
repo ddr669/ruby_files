@@ -15,7 +15,7 @@ class Cpf
     end
     
     def validate
-        dummy = @_cpf.tr(".-", "")
+        dummy = @_cpf.tr(".- ", "")
         n1 = 0
         n2 = 0
         counter = 0 
